@@ -1,0 +1,3 @@
+minidlna,./usr/sbin/minidlnad
+minidlna,./etc/init.d/S60minidlnad
+minidlna,./etc/minidlna.conf
